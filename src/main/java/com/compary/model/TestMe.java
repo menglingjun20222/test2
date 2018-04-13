@@ -8,7 +8,7 @@ public class TestMe {
             System.out.println(i);
         }
         System.out.println("hello destory");
-        System.out.println("hello destory");
+        System.out.println("hello destory2");
 
     }
 }
